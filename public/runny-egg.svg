@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 272.9 360.42">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #ffa946;
+      }
+
+      .cls-4 {
+        fill: #333;
+      }
+
+      .cls-5 {
+        fill: #ff7e24;
+      }
+    </style>
+  </defs>
+  <g id="Eggs">
+    <g id="Runny_Egg" data-name="Runny Egg">
+      <path class="cls-4" d="M12.4,261v24.86h12.4v24.86h12.4v12.43h12.4v12.43h12.4v12.43h24.81v12.43h99.24v-12.43h24.81v-12.43h12.4v-12.43h12.4v-12.43h12.4v-24.86h12.4v-24.86h12.4v-111.86h-12.4v-37.29h-12.4v-24.86h-12.4v-24.86h-12.4v-12.43h-12.4v-12.43h-12.4v-12.43h-12.4v-12.43h-12.4V0h-74.43v12.43h-12.41v12.43h-12.4v12.43h-12.4v12.43h-12.4v12.43h-12.4v24.86h-12.4v24.86h-12.4v37.29H0v111.86h12.4Z"/>
+      <g>
+        <path class="cls-1" d="M12.4,236.14v24.86h12.4v24.86h12.41v24.86h12.4v12.43h12.4v12.43h24.81v12.43h99.24v-12.43h24.81v-12.43h12.4v-12.43h12.4v-24.86h12.4v-24.86h12.4v-111.86h-12.4v-37.29h-12.4v-24.86h-12.4v-24.86h-12.4v-12.43h-12.4v-12.43h-12.4v-12.43h-12.4v-12.43h-74.43v12.43h-12.4v12.43h-12.4v12.43h-12.4v12.43h-12.4v24.86h-12.4v24.86h-12.41v37.29h-12.4v87Z"/>
+        <path class="cls-5" d="M136.45,136.71h-37.21v12.43h-12.4v12.43h-12.4v12.43h-12.4v12.43h-12.4v62.14h12.4v24.86h12.4v12.43h12.4v12.43h12.4v12.43h74.43v-12.43h12.4v-12.43h12.4v-12.43h12.4v-24.86h12.4v-62.14h-12.4v-12.43h-12.4v-12.43h-12.4v-12.43h-12.4v-12.43h-37.21Z"/>
+        <path class="cls-2" d="M86.83,223.71h12.4v-24.86h12.4v-24.86h-24.81v12.43h-12.4v37.29h12.4Z"/>
+        <path class="cls-5" d="M86.83,323.14h12.4v-24.86h12.4v-24.86h-24.81v12.43h-12.4v37.29h12.4Z"/>
+        <path class="cls-5" d="M111.63,335.46h12.4v-24.86h12.4v-24.86h-24.81v12.43h-12.4v37.29h12.4Z"/>
+        <path class="cls-5" d="M131.12,323.07h12.4v-24.86h12.4v-24.86h-24.81v12.43h-12.4v37.29h12.4Z"/>
+        <path class="cls-5" d="M99.79,347.51h12.4v-24.86h12.4v-24.86h-24.81v12.43h-12.4v37.29h12.4Z"/>
+        <g>
+          <path class="cls-3" d="M79.15,106.96v1.51h-3.05v3.05h-3.05v9.13h3.05v3.03h3.05v3.05h9.13v-3.05h3.03v-3.03h3.05v-9.13h-3.05v-3.05h-3.03v-3.03h-9.13v1.51"/>
+          <rect class="cls-6" x="85.12" y="112.01" width="2.88" height="2.88"/>
+        </g>
+        <g>
+          <path class="cls-3" d="M180.19,104.59v1.51h-3.05v3.05h-3.05v9.13h3.05v3.03h3.05v3.05h9.13v-3.05h3.03v-3.03h3.05v-9.13h-3.05v-3.05h-3.03v-3.03h-9.13v1.51"/>
+          <rect class="cls-6" x="186.72" y="109.64" width="2.88" height="2.88"/>
+        </g>
+        <g>
+          <rect x="161.57" y="107.79" width="4.69" height="4.69"/>
+          <rect x="166.27" y="107.79" width="4.69" height="4.69"/>
+          <rect x="170.96" y="103.1" width="4.69" height="4.69"/>
+          <rect x="175.65" y="103.1" width="4.69" height="4.69"/>
+          <rect x="180.35" y="103.1" width="4.69" height="4.69"/>
+          <rect x="185.04" y="98.41" width="4.69" height="4.69"/>
+          <rect x="189.74" y="98.41" width="4.69" height="4.69"/>
+          <rect x="194.43" y="98.41" width="4.69" height="4.69"/>
+          <rect x="199.12" y="93.71" width="4.69" height="4.69"/>
+          <rect x="203.82" y="93.71" width="4.69" height="4.69"/>
+        </g>
+        <g>
+          <rect x="104.95" y="110.14" width="5.13" height="4.69" transform="translate(215.03 224.98) rotate(180)"/>
+          <rect x="99.82" y="110.14" width="5.13" height="4.69" transform="translate(204.78 224.98) rotate(180)"/>
+          <rect x="94.7" y="105.45" width="5.13" height="4.69" transform="translate(194.52 215.59) rotate(180)"/>
+          <rect x="89.57" y="105.45" width="5.13" height="4.69" transform="translate(184.26 215.59) rotate(180)"/>
+          <rect x="84.44" y="105.45" width="5.13" height="4.69" transform="translate(174.01 215.59) rotate(180)"/>
+          <rect x="79.31" y="100.75" width="5.13" height="4.69" transform="translate(163.75 206.2) rotate(180)"/>
+          <rect x="74.18" y="100.75" width="5.13" height="4.69" transform="translate(153.49 206.2) rotate(180)"/>
+          <rect x="69.05" y="100.75" width="5.13" height="4.69" transform="translate(143.23 206.2) rotate(180)"/>
+          <rect x="63.92" y="96.06" width="5.13" height="4.69" transform="translate(132.98 196.81) rotate(180)"/>
+          <rect x="58.8" y="96.06" width="5.13" height="4.69" transform="translate(122.72 196.81) rotate(180)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
