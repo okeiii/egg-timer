@@ -11,7 +11,7 @@ function Home() {
             <div>
                 <img src={pixelEgg} className="pixel-egg" alt="Pixelated sunny side egg" />
             </div>
-            <h1>Lil' Egg Timer</h1>
+            <h1 className="distance">Lil' Egg Timer</h1>
             <div className="card">
                 <Link to="/menu">
                     <button>Click to Start</button>

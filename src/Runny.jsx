@@ -8,6 +8,7 @@ function Runny() {
         <div>
             <img src={runnyEgg} className="smaller" alt="Pixelated runny egg" />
             <h1>Your yolk is runny!</h1>
+            <p>Boil your egg in medium heat and start the timer.</p>
             <CountdownTimer />
             <div className="card">
                 <Link to="/menu">

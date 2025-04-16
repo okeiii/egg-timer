@@ -8,6 +8,7 @@ function Soft() {
         <div>
             <img src={softEgg} className="smaller" alt="Pixelated soft-boiled egg" />
             <h1>Your yolk is a soft yolk...</h1>
+            <p>Boil your egg in medium heat and start the timer.</p>
             <CountdownTimer />
             <div className="card">
                 <Link to="/menu">
